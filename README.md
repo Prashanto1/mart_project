@@ -174,8 +174,6 @@ S3 sales_data → Download → Validate → Join with MySQL dims → Build data 
 
 ---
 
-## 11) License
 
-For learning/demo purposes. Replace credentials with your own and follow your organization’s security policies.
 
 
