@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment & config files
+.env
+config.py
+resources/config.py
+resources/dev/config.py
+
+# OS files
+.DS_Store
